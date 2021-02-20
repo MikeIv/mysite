@@ -1,0 +1,5 @@
+[19-Feb-2021 13:20:37 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Applications/MAMP/htdocs/mysite/wp-includes/wp-db.php on line 1653
+[19-Feb-2021 13:22:37 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Applications/MAMP/htdocs/mysite/wp-includes/wp-db.php on line 1653
+[19-Feb-2021 13:24:37 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Applications/MAMP/htdocs/mysite/wp-includes/wp-db.php on line 1653
+[19-Feb-2021 13:26:38 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Applications/MAMP/htdocs/mysite/wp-includes/wp-db.php on line 1653
+[19-Feb-2021 13:28:39 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /Applications/MAMP/htdocs/mysite/wp-includes/wp-db.php on line 1653
