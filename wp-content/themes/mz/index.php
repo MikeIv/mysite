@@ -5,4 +5,6 @@
    	<div><?php the_content(); ?></div>
 <?php endwhile; ?>
 
+Индекс
+
 <?php get_footer(); ?>

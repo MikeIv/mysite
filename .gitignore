@@ -27,3 +27,7 @@ node_modules/
 
 wp-content/upgrade/
 wp-content/uploads/
+wp-content/themes/mz/.DS_Store
+wp-content/themes/mz/assets/.DS_Store
+wp-content/themes/mz/assets/js/
+wp-content/themes/mz/inc/
