@@ -33,8 +33,8 @@ add_filter(
 	
 //Load styles & scripts	
 function mz_scripts() {
-    $ver = '0.0.5';
-	wp_enqueue_style( 'main-style', get_stylesheet_uri() );
+    $ver = '0.0.1';
+	wp_enqueue_style( 'main-style', get_stylesheet_uri(), array(), $ver );
 	wp_enqueue_style( 'mz-style', get_template_directory_uri() . '/assets/css/style.min.css', array(), $ver );
 	wp_enqueue_style( 'mz-addstyle', get_template_directory_uri() . '/assets/css/addstyle.css', array(), $ver );
 }

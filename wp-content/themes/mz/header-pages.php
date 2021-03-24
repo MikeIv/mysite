@@ -12,7 +12,7 @@
 <header class="header-pages">
 
     <div class="header__page-wrapper">
-        <a href="index.html">
+        <a href="<?php echo get_home_url(); ?>">
             <img src="<?php theme_image('my-logo.svg'); ?>" alt="logo" class="header__main-logo">
         </a>
         <div class="header__left-line"></div>
